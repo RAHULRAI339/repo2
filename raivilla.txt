@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 hey new file
+created for conflict check
